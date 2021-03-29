@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="refreshing_data">Refreshing Data</string>
+    <string name="refresh_data">refreshData</string>
+    <string name="read_wiki">Read Wiki ↗</string>
+    <string name="delete_all">Delete All</string>
+    <string name="text_empty_state_title">No Members Found</string>
+    <string name="text_empty_state_detail">Check you network connection 🚀\nTry again!!</string>
+    <string name="unable_to_fetch">Unable to fetch new data</string>
+    <string name="list_updated">List Updated</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
